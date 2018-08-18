@@ -6,7 +6,7 @@ Javascript and DOM manipulation project.
 Provided a sqlite database, I created a web page to allow a searchable criteria to filter data rendered in the web page.
 
 
-Final content available in github pages: xxx
+Final content available in github pages: https://manuelamachado.github.io/Javascript_and_DOM_Manipulation/.
 
 
 ### Analyzes:
